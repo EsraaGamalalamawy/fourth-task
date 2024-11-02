@@ -158,4 +158,7 @@ body {
   .row .two{
     width: 43%;
   }
+    footer form{
+        width:80%
+    }
 }
