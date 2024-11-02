@@ -1,0 +1,52 @@
+# Project Stryucture:-
+
+    -My advanced blog project was created using 4 languages:
+        html,
+        css,
+        bootstrap,
+        javaScript
+
+    -This project consists of two pages:
+        loading Page("index.html"),
+        main Page("main.html")
+
+    ///// loading page:
+        -This page was created by:
+            html,css,javascript
+        -It consists of 8 sounds that are exchanged between them smoothing and binary until the main page is loaded.
+
+    ////main page:
+        -This page was created by:
+            html,css,bootstrap,javascript
+        -It contains 3 basic parts:
+            Header Part,
+            Main Part,
+            Footer Part
+        ===> Header Part/
+            It consists of icon in the left and navbar in the center and information in the right
+
+        ===>Main Part/
+            It consists of 3 articals
+                First Advanced Article Title,
+                Second Advanced Article Title,,
+                Third Advanced Article Title,
+            ,and 2 sidebar
+                About the Blog,
+                Recent Posts
+
+
+        ==>Footer Part/
+            It consists of 2 parts
+                first part about content us
+                    So that the user can contact us if he has any questions
+                second part is information about designer
+
+# How to run it:-
+
+    When you open the site, the loading page appears. After some time, the main screen appears, which contains 3 parts
+    Header part
+        It contains links to the site
+    Main Part
+        Just to read articles
+    Footer Part
+        To contact us
